@@ -63,12 +63,6 @@ export const TransactionsTable = ({ onEditTransaction }: TransactionsTableProps)
           ))}
         </tbody>
       </table>
-
-      {transactions.length === 0 && (
-        <S.EmptyState>
-          Nenhuma transação cadastrada ainda.
-        </S.EmptyState>
-      )}
     </S.Container>
   );
 };
