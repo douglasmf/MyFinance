@@ -9,7 +9,7 @@ Site: <a href="https://my-finance-gules.vercel.app" target="_blank">https://my-f
 
 - HTML5  
 - CSS3  
-- JavaScript  
+- Typescript  
 - React  
 - Redux-Toolkit
 - Styled-Components
