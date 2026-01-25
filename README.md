@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-o MyFinance é uma aplicação de controle de finanças, onde é possivel registrar entradas,despesas e visualizar um gráfico das despesas separadas por categorias.</br>
+O MyFinance é uma aplicação de controle de finanças, onde é possivel registrar entradas,despesas e visualizar um gráfico das despesas separadas por categorias.</br>
 Site: <a href="https://my-finance-gules.vercel.app" target="_blank">https://my-finance-gules.vercel.app</a>
 
 ## 🚀 Tecnologias Utilizadas
